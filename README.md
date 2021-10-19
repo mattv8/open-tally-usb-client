@@ -1,5 +1,4 @@
 # ![OpenTally Icon](https://git.visnovsky.us/Matt/open-tally/-/raw/master/icons/Icon-02.png) Open Tally USB Client
-==================================================
 
 Project Overview
 ----------------------------
